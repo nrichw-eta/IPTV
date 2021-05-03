@@ -1,5 +1,12 @@
 <h1>USA</h1>
 
+<h2>ATSC</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
+| 1   | Buzzr          | [>](https://buzzrota-web.amagi.tv/playlist480.m3u8) | <img height="20" src="#"/> |
+
+
 <h2>DVB-S</h2>
 
 | #   | Channel        | Link  | Logo |
