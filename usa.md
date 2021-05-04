@@ -9,7 +9,7 @@
 | 3   | Stadium        | [>](https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8) | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Stadium_logo_2017.svg/revision/latest/scale-to-width-down/250?cb=20190603015712"/> |
 | 4   | Biz TV         | [>](https://thegateway.app/BizTV/BizTV-Tones/chunks.m3u8?nimblesessionid=94690008) | <img height="20" src="https://i.imgur.com/cbGvXyF.jpg"/> |
 | 5   | Heartland      | [>](https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8) |  <img height="30" src="https://vignette4.wikia.nocookie.net/logopedia/images/5/5e/HeartlandTVLogo.jpg/revision/latest?cb=20131026221410" />|
-| 6   | Rev'n          | [>](https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="30" src="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Rev'n_logo.png/revision/latest?cb=20150417190048'/> | 
+| 6   | Rev'n          | [>](https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="30" src="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Rev'n_logo.png/revision/latest?cb=20150417190048" /> | 
 
 
 <h2>DVB-S</h2>
