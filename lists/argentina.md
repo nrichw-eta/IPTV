@@ -2,6 +2,7 @@
 
 <h2>TDA</h2>
 
+<h3>National</h3>
 https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_broadcast_networks
 
 | #    | Channel        | Link  | Logo | EPG id |
@@ -9,7 +10,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 | 3 | TN Todo Noticias  | [>](https://live-01-01-tn.vodgc.net/TN24/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png"/> | TodoNoticias.ar |
 | 22.1 | Encuentro Ⓨ Ⓖ  | [>](https://www.youtube.com/user/encuentro/live) | <img height="20" src="https://i.imgur.com/IyP2UIx.png"/> | Encuentro.ar |
 | 22.2 | Pakapaka Ⓨ Ⓖ   | [>](https://www.youtube.com/user/CanalPakapaka/live) | <img height="20" src="https://i.imgur.com/Q4zaCuM.png"/> | Pakapaka.ar |
-| 22.3 | Mirador TV     | [>](https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KjD1uJS.png"/> | Mirador.ar |
+| 22.3 | Aunar    | [>](https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8) | <img height="20" src="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png"/> | Aunar.ar |
 | 22.4 | Cine.AR        | [>](https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RPLyrIC.png"/> | CineAr.ar |
 | 22.5 | Tec TV         | [>](https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8) | <img height="20" src="https://i.imgur.com/EGCq1wc.png"/> | TECTV.ar |
 | 23.1 | Televisión Pública Ⓨ | [>](https://www.youtube.com/user/TVPublicaArgentina/live) | <img height="20" src="https://i.imgur.com/4hYYpiu.png"/> | TVPublica.ar |
@@ -18,6 +19,10 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 | 24.4 | Crónica TV Ⓨ   | [>](https://www.youtube.com/c/cronicatv/live) | <img height="20" src="https://i.imgur.com/k2Ku8Ib.png"/> | CronicaTV.ar |
 | 25.2 | C5N Ⓨ          | [>](https://www.youtube.com/c/c5n/live) | <img height="20" src="https://i.imgur.com/E3pamA5.png"/> | C5N.ar |
 | 25.3 | LN+ Ⓨ          | [>](https://www.youtube.com/c/LaNacionMas/live) | <img height="20" src="https://i.imgur.com/vJYzGt1.png"/> | LaNacionPlus.ar |
+| 25.6 |Canal E| [>](https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8)| <img height="20" src="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg"/>| CanalE.ar|
+
+
+<h3> Buenos Aires (City and Province)</h3>
 | 26.3 | Telemax        | [>](https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gfX0hdB.png"/> | Telemax.ar |
 | 27.2 | Net TV         | [>](https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EWmshtx.png"/> | NETTV.ar |
 | 32.1 | TV Universidad | [>](https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8) | <img height="20" src="https://i.imgur.com/tvLHiAT.png"/> | TVUniversidad.ar |
@@ -25,7 +30,6 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 | 35.1 | El Nueve       | [>](https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/EtcVSm4.png"/> | ElNueve.ar |
 | 36.1 | América Ⓨ      | [>](https://www.youtube.com/c/americaenvivo/live) | <img height="20" src="https://i.imgur.com/Jt7dOQm.png"/> | AmericaTV.ar |
 | 36.2 | A24 Ⓨ          | [>](https://www.youtube.com/c/A24com/live) | <img height="20" src="https://i.imgur.com/OdhF7ym.png"/> | A24.ar |
-
 <h2>Invalid</h2>
 
 | #    | Channel        | Link  | Logo | EPG id |
